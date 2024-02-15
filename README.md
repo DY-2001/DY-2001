@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DY-2001?tab=repositories](https://github.com/DY-2001?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/DY-2001?tab=repositories)
 
 - 💬 Ask me about **react, node, express, mongodb, spring boot, data structures, algorithms**
 
 - 📫 How to reach me **dushyantist@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/DY-2001?tab=repositories](https://github.com/DY-2001?tab=repositories)
+- 📄 Know about my experiences [Resume]([https://github.com/DY-2001?tab=repositories](https://drive.google.com/file/d/13efsxhqDfh_j8bfjNFPRgMLyEZsChK12/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
