@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dushyant Yadav</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1dH76mQ2UBVmoYYP9LF2Qk6M1okj81qGE/view?usp=sharing">
+<!-- <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1dH76mQ2UBVmoYYP9LF2Qk6M1okj81qGE/view?usp=sharing"> -->
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dy-2001&label=Profile%20views&color=0e75b6&style=flat" alt="dy-2001" /> </p>
 
