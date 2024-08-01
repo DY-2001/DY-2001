@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dushyant Yadav</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="360" height="260" src="https://user-images.githubusercontent.com/81186992/136109249-bdc07440-79eb-4b94-9cbb-8e9ff2de691f.gif">
+<img align="right" alt="Coding" width="370" height="230" src="https://user-images.githubusercontent.com/81186992/136109249-bdc07440-79eb-4b94-9cbb-8e9ff2de691f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dy-2001&label=Profile%20views&color=0e75b6&style=flat" alt="dy-2001" /> </p>
 
