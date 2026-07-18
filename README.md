@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dy-2001&label=Profile%20views&color=0e75b6&style=flat" alt="dy-2001" /> </p>
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/DY-2001?tab=repositories)
 
