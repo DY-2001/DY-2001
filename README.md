@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dushyantist@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1969bLvcOkuDgS8ieXjlhpU9t1UxrC9JH/view?usp=sharing_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RKflUHnPTfQT_Z-MvyFX48L9-ZN6ew1C/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
