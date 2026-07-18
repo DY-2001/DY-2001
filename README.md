@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/DY-2001?tab=repositories)
 
-- 💬 Ask me about **react, node, express, mongodb, spring boot, data structures, algorithms**
+- 💬 Ask me about **node.js, GO, Java, Mysql, mongodb, spring boot, data structures, algorithms**
 
 - 📫 How to reach me **dushyantist@gmail.com**
 
